@@ -1,5 +1,5 @@
 # Binary Search Algorithm
-# O(log n)  =>  worse and average case
+# O(log n)  =>  worst and average case
 # O(1)      =>  Best case
 
 def binary_search(item, arr):
