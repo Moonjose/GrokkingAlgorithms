@@ -18,7 +18,7 @@ My implementations of the algorithms from the book *Grokking Algorithms*.
 
 ## How to run
 
-Run from this folder (`GrokkingAlgorithms/`) as a module, so the scripts can import `data.py`:
+Run from the repository root as a module, so the scripts can import `data.py`:
 
 ```bash
 python -m ch04_quicksort.quicksort
